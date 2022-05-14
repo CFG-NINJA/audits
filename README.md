@@ -15,6 +15,7 @@ CFG Ninja Team have over 25+ years in Cyber Security Experience, the blockchain 
 ##### Interview with Team on different code items.
 ##### Testnet Deployment and Code Review.
 ##### Delivery of Security Assessment.
+##### Token Holder Review
 
 ###### Audit Tools.
 1. Remix.
